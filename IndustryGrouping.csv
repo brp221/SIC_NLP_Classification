@@ -1,0 +1,777 @@
+Industry,Secondary_Industry,SIC_INDUSTRY_CLASS_NM,SIC_INDUSTRY_CLASS_CD,Client
+Agriculture & Fisheries,Agriculture and Fisheries,Animal specialty services,752,10
+Agriculture & Fisheries,Agriculture and Fisheries,Beef cattle feedlots,211,5
+Agriculture & Fisheries,Agriculture and Fisheries,"Beef cattle, except feedlots",212,52
+Agriculture & Fisheries,Agriculture and Fisheries,"Cash grains, nec",119,2
+Agriculture & Fisheries,Agriculture and Fisheries,Chicken eggs,252,115
+Agriculture & Fisheries,Agriculture and Fisheries,Crop planting and protecting,721,8
+Agriculture & Fisheries,Agriculture and Fisheries,Crop preparation services for market,723,57
+Agriculture & Fisheries,Agriculture and Fisheries,Farm management services,762,16
+Agriculture & Fisheries,Agriculture and Fisheries,"Field crops, except cash grains, nec",139,14
+Agriculture & Fisheries,Agriculture and Fisheries,Food crops grown under cover,182,16
+Agriculture & Fisheries,Agriculture and Fisheries,"Fruits and tree nuts, nec",179,18
+Agriculture & Fisheries,Agriculture and Fisheries,"General farms, primarily animal",291,1
+Agriculture & Fisheries,Agriculture and Fisheries,"General farms, primarily crop",191,164
+Agriculture & Fisheries,Agriculture and Fisheries,Grapes,172,2
+Agriculture & Fisheries,Agriculture and Fisheries,Hogs,213,18
+Agriculture & Fisheries,Agriculture and Fisheries,"Hunting, trapping, game propagation",971,6
+Agriculture & Fisheries,Agriculture and Fisheries,Landscape counseling and planning,781,52
+Agriculture & Fisheries,Agriculture and Fisheries,Lawn and garden services,782,15
+Agriculture & Fisheries,Agriculture and Fisheries,"Livestock services, exc. veterinary",751,198
+Agriculture & Fisheries,Agriculture and Fisheries,Meat packing plants,2011,139
+Agriculture & Fisheries,Agriculture and Fisheries,Ornamental nursery products,181,225
+Agriculture & Fisheries,Agriculture and Fisheries,Ornamental shrub and tree services,783,794
+Agriculture & Fisheries,Agriculture and Fisheries,Poultry hatcheries,254,10
+Agriculture & Fisheries,Agriculture and Fisheries,"Prepared feeds, nec",2048,1614
+Agriculture & Fisheries,Agriculture and Fisheries,Rice,112,1
+Agriculture & Fisheries,Agriculture and Fisheries,Rice milling,2044,9
+Agriculture & Fisheries,Agriculture and Fisheries,Tobacco,132,1
+Agriculture & Fisheries,Agriculture and Fisheries,Tobacco stemming and redrying,2141,154
+Agriculture & Fisheries,Agriculture and Fisheries,Tree nuts,173,164
+Agriculture & Fisheries,Agriculture and Fisheries,Vegetables and melons,161,33
+Agriculture & Fisheries,Agriculture and Fisheries,"Veterinary services, specialties",742,122
+Agriculture & Fisheries,Agriculture and Fisheries,Wet corn milling,2046,491
+Automotive,Automotive - Other,Automotive and apparel trimmings,2396,6
+Automotive,Automotive - Other,"Automotive services, nec",7549,1457
+Automotive,Automotive - Other,Boat building and repairing,3732,140
+Automotive,Automotive - Other,Boat dealers,5551,3
+Automotive,Automotive - Other,"Carburetors, pistons, rings, valves",3592,536
+Automotive,Automotive - Other,Fluid power cylinders & actuators,3593,439
+Automotive,Automotive - Other,Fluid power pumps and motors,3594,2754
+Automotive,Automotive - Other,"Motor vehicle parts, used",5015,6
+Automotive,Automotive - Other,"Motorcycles, bicycles, and parts",3751,2798
+Automotive,Automotive - Other,Motors and generators,3621,33
+Automotive,Automotive - Other,Passenger car rental,7514,380
+Automotive,Automotive - Other,Recreational vehicle dealers,5561,114
+Automotive,Automotive - Other,"Speed changers, drives, and gears",3566,43
+Automotive,Automotive - Other,Tires and inner tubes,3011,124
+Automotive,Automotive - Other,"Transportation equipment, nec",3799,554
+Automotive,Automotive - Other,Travel trailers and campers,3792,1
+Automotive,Automotive - Other,Truck trailers,3715,36
+Automotive,Automotive - Other,Utility trailer rental,7519,45
+Automotive,Automotive - Other,Vehicular lighting equipment,3647,576
+Automotive,Automotive Dealers,Automobiles and other motor vehicles,5012,791
+Automotive,Automotive Dealers,"Automotive dealers, nec",5599,29
+Automotive,Automotive Dealers,New and used car dealers,5511,2283
+Automotive,Automotive Manufacturers/OEMs,Automotive stampings,3465,433
+Automotive,Automotive Manufacturers/OEMs,"Internal combustion engines, nec",3519,85
+Automotive,Automotive Manufacturers/OEMs,Motor vehicles and car bodies,3711,5336
+Automotive,Automotive Manufacturers/OEMs,Truck and bus bodies,3713,46
+Automotive,Automotive Suppliers,Motor vehicle parts and accessories,3714,10941
+Automotive,Automotive Suppliers,Motor vehicle supplies and new parts,5013,2496
+Automotive,Automotive Suppliers,Tire retreading and repair shops,7534,177
+Automotive,Automotive Suppliers,Tires and tubes,5014,516
+Chemical,Chemicals,Adhesives and sealants,2891,347
+Chemical,Chemicals,"Agricultural chemicals, nec",2879,2608
+Chemical,Chemicals,Alkalies and chlorine,2812,325
+Chemical,Chemicals,Carbon black,2895,43
+Chemical,Chemicals,Cellulosic manmade fibers,2823,240
+Chemical,Chemicals,"Chemical preparations, nec",2899,4146
+Chemical,Chemicals,"Chemicals & allied products, nec",5169,2787
+Chemical,Chemicals,Custom compound purchased resins,3087,1
+Chemical,Chemicals,Cyclic crudes and intermediates,2865,794
+Chemical,Chemicals,Explosives,2892,25
+Chemical,Chemicals,"Fertilizers, mixing only",2875,16
+Chemical,Chemicals,Gum and wood chemicals,2861,138
+Chemical,Chemicals,Industrial gases,2813,180
+Chemical,Chemicals,"Industrial inorganic chemicals, nec",2819,1766
+Chemical,Chemicals,"Industrial organic chemicals, nec",2869,1009
+Chemical,Chemicals,Inorganic pigments,2816,35
+Chemical,Chemicals,Nitrogenous fertilizers,2873,248
+Chemical,Chemicals,"Organic fibers, noncellulosic",2824,67
+Chemical,Chemicals,Paints and allied products,2851,1002
+Chemical,Chemicals,Phosphatic fertilizers,2874,288
+Chemical,Chemicals,Plastics foam products,3086,236
+Chemical,Chemicals,Plastics materials and resins,2821,2135
+Chemical,Chemicals,"Plastics products, nec",3089,2692
+Chemical,Chemicals,Polishes and sanitation goods,2842,720
+Chemical,Chemicals,Printing ink,2893,192
+Chemical,Chemicals,Soap and other detergents,2841,1439
+Chemical,Chemicals,Surface active agents,2843,357
+Chemical,Chemicals,Synthetic rubber,2822,485
+Chemical,Chemicals,Toilet preparations,2844,4412
+Chemical,Chemicals,Unsupported plastics film & sheet,3081,5203
+"Communications, Media & Technology",Communications,"Communication services, nec",4899,6213
+"Communications, Media & Technology",Communications,Radiotelephone communications,4812,742
+"Communications, Media & Technology",Communications,"Telephone communications, exc. radio",4813,3236
+"Communications, Media & Technology",Electronics Manufacturing,"Communications equipment, nec",3669,1404
+"Communications, Media & Technology",Electronics Manufacturing,"Computer peripheral equipment, nec",3577,2471
+"Communications, Media & Technology",Electronics Manufacturing,Computer storage devices,3572,1609
+"Communications, Media & Technology",Electronics Manufacturing,Computer terminals,3575,674
+"Communications, Media & Technology",Electronics Manufacturing,Current-carrying wiring devices,3643,59
+"Communications, Media & Technology",Electronics Manufacturing,"Electrical equipment & supplies, nec",3699,1382
+"Communications, Media & Technology",Electronics Manufacturing,"Electrical industrial apparatus, nec",3629,1762
+"Communications, Media & Technology",Electronics Manufacturing,Electronic capacitors,3675,201
+"Communications, Media & Technology",Electronics Manufacturing,"Electronic components, nec",3679,3757
+"Communications, Media & Technology",Electronics Manufacturing,Electronic computers,3571,2052
+"Communications, Media & Technology",Electronics Manufacturing,Electronic connectors,3678,1241
+"Communications, Media & Technology",Electronics Manufacturing,Electronic resistors,3676,12
+"Communications, Media & Technology",Electronics Manufacturing,Household audio and video equipment,3651,325
+"Communications, Media & Technology",Electronics Manufacturing,Magnetic and optical recording media,3695,25
+"Communications, Media & Technology",Electronics Manufacturing,"Primary batteries, dry and wet",3692,611
+"Communications, Media & Technology",Electronics Manufacturing,Printed circuit boards,3672,1982
+"Communications, Media & Technology",Electronics Manufacturing,Radio & TV communications equipment,3663,3554
+"Communications, Media & Technology",Electronics Manufacturing,Relays and industrial controls,3625,437
+"Communications, Media & Technology",Electronics Manufacturing,"Scales and balances, exc. laboratory",3596,64
+"Communications, Media & Technology",Electronics Manufacturing,Search and navigation equipment,3812,2147
+"Communications, Media & Technology",Electronics Manufacturing,Semiconductors and related devices,3674,6844
+"Communications, Media & Technology",Electronics Manufacturing,Storage batteries,3691,1134
+"Communications, Media & Technology",Electronics Manufacturing,Telephone and telegraph apparatus,3661,701
+"Communications, Media & Technology",Electronics Manufacturing,"Transformers, except electronic",3612,31
+"Communications, Media & Technology",Information Technology,Computer facilities management,7376,27
+"Communications, Media & Technology",Information Technology,Computer integrated systems design,7373,6137
+"Communications, Media & Technology",Information Technology,Computer maintenance & repair,7378,314
+"Communications, Media & Technology",Information Technology,Computer programming services,7371,10594
+"Communications, Media & Technology",Information Technology,"Computer related services, nec",7379,4850
+"Communications, Media & Technology",Information Technology,Computer rental & leasing,7377,64
+"Communications, Media & Technology",Information Technology,"Computers, peripherals & software",5045,4774
+"Communications, Media & Technology",Information Technology,Data processing and preparation,7374,3413
+"Communications, Media & Technology",Information Technology,Electronic parts and equipment,5065,2472
+"Communications, Media & Technology",Information Technology,Information retrieval services,7375,2641
+"Communications, Media & Technology",Information Technology,Prepackaged software,7372,7357
+"Communications, Media & Technology",Media,Book publishing,2731,825
+"Communications, Media & Technology",Media,Cable and other pay TV services,4841,629
+"Communications, Media & Technology",Media,Miscellaneous publishing,2741,66
+"Communications, Media & Technology",Media,Newspapers,2711,1271
+"Communications, Media & Technology",Media,Periodicals,2721,580
+"Communications, Media & Technology",Media,Radio broadcasting stations,4832,1807
+"Communications, Media & Technology",Media,Television broadcasting stations,4833,1502
+Construction,Contractors,"Bridge, tunnel, & elevated highway",1622,1051
+Construction,Contractors,Concrete work,1771,21
+Construction,Contractors,Electrical work,1731,982
+Construction,Contractors,Excavation work,1794,471
+Construction,Contractors,"Floor laying and floor work, nec",1752,2
+Construction,Contractors,Glass and glazing work,1793,113
+Construction,Contractors,Heavy construction equipment rental,7353,2
+Construction,Contractors,"Heavy construction, nec",1629,1819
+Construction,Contractors,Highway and street construction,1611,3030
+Construction,Contractors,Industrial buildings and warehouses,1541,1042
+Construction,Contractors,"Installing building equipment, nec",1796,9
+Construction,Contractors,Masonry and other stonework,1741,246
+Construction,Contractors,"Nonresidential construction, nec",1542,8983
+Construction,Contractors,Operative builders,1531,1561
+Construction,Contractors,Painting and paper hanging,1721,23
+Construction,Contractors,"Plastering, drywall, and insulation",1742,69
+Construction,Contractors,"Plumbing, heating, air-conditioning",1711,1797
+Construction,Contractors,"Residential construction, nec",1522,1556
+Construction,Contractors,"Roofing, siding, and sheet metal work",1761,297
+Construction,Contractors,Single-family housing construction,1521,1001
+Construction,Contractors,"Special trade contractors, nec",1799,291
+Construction,Contractors,Structural steel erection,1791,521
+Construction,Contractors,"Terrazzo, tile, marble, mosaic work",1743,5
+Construction,Contractors,Water well drilling,1781,68
+Construction,Contractors,"Water, sewer, and utility lines",1623,2106
+Construction,Design Firms,Architectural services,8712,487
+Construction,Design Firms,Engineering services,8711,10466
+Construction,Design Firms,Surveying services,8713,167
+Construction,Materials,Asphalt felts and coatings,2952,1967
+Construction,Materials,Asphalt paving mixtures and blocks,2951,522
+Construction,Materials,"Cement, hydraulic",3241,314
+Construction,Materials,Concrete block and brick,3271,10
+Construction,Materials,"Concrete products, nec",3272,199
+Construction,Materials,Lime,3274,20
+Construction,Materials,Ready-mixed concrete,3273,929
+Education,Colleges and Universities,Business and secretarial schools,8244,2
+Education,Colleges and Universities,Colleges and universities,8221,20939
+Education,Colleges and Universities,Junior colleges,8222,677
+Education,Educational Services,Admin. of educational programs,9411,2623
+Education,Educational Services,Child day care services,8351,12
+Education,Educational Services,"Educational, religious, etc. trusts",6732,568
+Education,Educational Services,Libraries,8231,1031
+Education,Educational Services,"Schools & educational services, nec",8299,3342
+Education,Educational Services,"Vocational schools, nec",8249,353
+Education,Elementary and Secondary Schools,Elementary and secondary schools,8211,1698
+Energy,Mining,Anthracite mining,1231,358
+Energy,Mining,Bituminous coal and lignite surface,1221,676
+Energy,Mining,Bituminous coal underground,1222,120
+Energy,Mining,"Chemical and fertilizer mining, nec",1479,746
+Energy,Mining,Coal mining services,1241,28
+Energy,Mining,Construction sand and gravel,1442,16
+Energy,Mining,Copper ores,1021,111
+Energy,Mining,Crushed and broken granite,1423,360
+Energy,Mining,Crushed and broken limestone,1422,1143
+Energy,Mining,"Ferroalloy ores, except vanadium",1061,40
+Energy,Mining,Gold ores,1041,765
+Energy,Mining,Industrial sand,1446,393
+Energy,Mining,Iron ores,1011,196
+Energy,Mining,Metal mining services,1081,7
+Energy,Mining,"Metal ores, nec",1099,324
+Energy,Mining,Miscellaneous nonmetallic minerals,1499,65
+Energy,Mining,"Potash, soda, and borate minerals",1474,504
+Energy,Mining,Uranium-radium-vanadium ores,1094,2
+Energy,Oil And Gas Extraction/Refining,Crude petroleum and natural gas,1311,2947
+Energy,Oil And Gas Extraction/Refining,Crude petroleum pipelines,4612,908
+Energy,Oil And Gas Extraction/Refining,Drilling oil and gas wells,1381,873
+Energy,Oil And Gas Extraction/Refining,Lubricating oils and greases,2992,20
+Energy,Oil And Gas Extraction/Refining,Natural gas liquids,1321,990
+Energy,Oil And Gas Extraction/Refining,Oil and gas exploration services,1382,1829
+Energy,Oil And Gas Extraction/Refining,"Oil and gas field services, nec",1389,1224
+Energy,Oil And Gas Extraction/Refining,"Petroleum and coal products, nec",2999,126
+Energy,Oil And Gas Extraction/Refining,Petroleum refining,2911,3552
+Energy,Oil And Gas Extraction/Refining,"Pipelines, nec",4619,180
+Energy,Oil And Gas Extraction/Refining,Refined petroleum pipelines,4613,496
+Energy,Primary Metal Industries,Aluminum foundries,3365,7
+Energy,Primary Metal Industries,Blast furnaces and steel mills,3312,4400
+Energy,Primary Metal Industries,Copper foundries,3366,1064
+Energy,Primary Metal Industries,Copper rolling and drawing,3351,415
+Energy,Primary Metal Industries,Electrometallurgical products,3313,57
+Energy,Primary Metal Industries,Gray and ductile iron foundries,3321,1083
+Energy,Primary Metal Industries,Iron and steel forgings,3462,377
+Energy,Primary Metal Industries,Nonferrous forgings,3463,282
+Energy,Primary Metal Industries,"Nonferrous foundries, nec",3369,2
+Energy,Primary Metal Industries,Primary aluminum,3334,292
+Energy,Primary Metal Industries,"Primary nonferrous metals, nec",3339,267
+Energy,Primary Metal Industries,Secondary nonferrous metals,3341,264
+Energy,Primary Metal Industries,"Steel foundries, nec",3325,540
+Energy,Primary Metal Industries,Steel investment foundries,3324,597
+Entertainment,Entertainment,Advertising agencies,7311,1098
+Entertainment,Entertainment,"Advertising, nec",7319,22
+Entertainment,Entertainment,Entertainers & entertainment groups,7929,395
+Entertainment,Entertainment,Motion picture & video production,7812,458
+Entertainment,Entertainment,Services allied to motion pictures,7819,1367
+Entertainment,Entertainment,Theatrical producers and services,7922,1027
+Financial Institutions,Asset Managers/Investment Companies,Investment advice,6282,4906
+Financial Institutions,Asset Managers/Investment Companies,"Investment offices, nec",6726,7513
+Financial Institutions,Asset Managers/Investment Companies,"Investors, nec",6799,13825
+Financial Institutions,Asset Managers/Investment Companies,"Management investment, open-end",6722,3413
+Financial Institutions,Asset Managers/Investment Companies,Nondeposit trust facilities,6091,86
+Financial Institutions,Asset Managers/Investment Companies,"Pension, health, and welfare funds",6371,456
+Financial Institutions,Asset Managers/Investment Companies,"Trusts, nec",6733,325
+Financial Institutions,Banks/Consumer Finance,Bank holding companies,6712,847
+Financial Institutions,Banks/Consumer Finance,"Central reserve depository, nec",6019,53
+Financial Institutions,Banks/Consumer Finance,"Commercial banks, nec",6029,339
+Financial Institutions,Banks/Consumer Finance,Federal & fed.-sponsored credit,6111,718
+Financial Institutions,Banks/Consumer Finance,Federal credit unions,6061,1422
+Financial Institutions,Banks/Consumer Finance,Federal reserve banks,6011,30
+Financial Institutions,Banks/Consumer Finance,Federal savings institutions,6035,28
+Financial Institutions,Banks/Consumer Finance,Foreign bank & branches & agencies,6081,98
+Financial Institutions,Banks/Consumer Finance,Foreign trade & international banks,6082,131
+Financial Institutions,Banks/Consumer Finance,National commercial banks,6021,5181
+Financial Institutions,Banks/Consumer Finance,"Savings institutions, except federal",6036,61
+Financial Institutions,Banks/Consumer Finance,State commercial banks,6022,3465
+Financial Institutions,Financial Institutions - Other,Functions related to deposit banking,6099,1429
+Financial Institutions,Financial Institutions - Other,"Holding companies, nec",6719,18294
+Financial Institutions,Financial Institutions - Other,"Insurance agents, brokers, & service",6411,3682
+Financial Institutions,Financial Institutions - Other,Loan brokers,6163,512
+Financial Institutions,Financial Institutions - Other,Misc. business credit institutions,6159,728
+Financial Institutions,Financial Institutions - Other,Mortgage bankers and correspondents,6162,1736
+Financial Institutions,Financial Institutions - Other,Passenger car leasing,7515,230
+Financial Institutions,Financial Institutions - Other,Patent owners and lessors,6794,130
+Financial Institutions,Financial Institutions - Other,Personal credit institutions,6141,1735
+Financial Institutions,Financial Institutions - Other,Short-term business credit,6153,172
+Financial Institutions,Financial Institutions - Other,Title abstract offices,6541,2
+Financial Institutions,Financial Institutions - Other,"Truck rental and leasing, no drivers",7513,362
+Financial Institutions,Insurance,Accident and health insurance,6321,738
+Financial Institutions,Insurance,"Fire, marine, and casualty insurance",6331,3169
+Financial Institutions,Insurance,"Insurance carriers, nec",6399,270
+Financial Institutions,Insurance,Life insurance,6311,1958
+Financial Institutions,Insurance,Surety insurance,6351,46
+Financial Institutions,Insurance,Title insurance,6361,1140
+Financial Institutions,Securities,"Commodity contracts brokers, dealers",6221,1877
+Financial Institutions,Securities,Oil royalty traders,6792,61
+Financial Institutions,Securities,"Security & commodity services, nec",6289,1057
+Financial Institutions,Securities,Security and commodity exchanges,6231,218
+Financial Institutions,Securities,Security brokers and dealers,6211,3853
+Food & Beverage,Beverage Production,Bottled and canned soft drinks,2086,923
+Food & Beverage,Beverage Production,Distilled and blended liquors,2085,186
+Food & Beverage,Beverage Production,Fluid milk,2026,2881
+Food & Beverage,Beverage Production,Malt,2083,328
+Food & Beverage,Beverage Production,Malt beverages,2082,784
+Food & Beverage,Beverage Production,"Wines, brandy, and brandy spirits",2084,1884
+Food & Beverage,Food Production and Processing,Animal and marine fats and oils,2077,494
+Food & Beverage,Food Production and Processing,Beet sugar,2063,355
+Food & Beverage,Food Production and Processing,"Bread, cake, and related products",2051,230
+Food & Beverage,Food Production and Processing,Candy & other confectionery products,2064,656
+Food & Beverage,Food Production and Processing,Canned and cured fish and seafoods,2091,48
+Food & Beverage,Food Production and Processing,Canned fruits and vegetables,2033,5402
+Food & Beverage,Food Production and Processing,Canned specialties,2032,85
+Food & Beverage,Food Production and Processing,Cereal breakfast foods,2043,1
+Food & Beverage,Food Production and Processing,"Cheese, natural and processed",2022,997
+Food & Beverage,Food Production and Processing,Chocolate and cocoa products,2066,120
+Food & Beverage,Food Production and Processing,Cookies and crackers,2052,535
+Food & Beverage,Food Production and Processing,Creamery butter,2021,872
+Food & Beverage,Food Production and Processing,"Dehydrated fruits, vegetables, soups",2034,967
+Food & Beverage,Food Production and Processing,Dog and cat food,2047,23
+Food & Beverage,Food Production and Processing,"Dry, condensed, evaporated products",2023,3539
+Food & Beverage,Food Production and Processing,"Edible fats and oils, nec",2079,738
+Food & Beverage,Food Production and Processing,"Flavoring extracts and syrups, nec",2087,439
+Food & Beverage,Food Production and Processing,"Food preparations, nec",2099,1672
+Food & Beverage,Food Production and Processing,Fresh or frozen prepared fish,2092,502
+Food & Beverage,Food Production and Processing,"Frozen bakery products, except bread",2053,312
+Food & Beverage,Food Production and Processing,Frozen fruits and vegetables,2037,106
+Food & Beverage,Food Production and Processing,"Frozen specialties, nec",2038,2402
+Food & Beverage,Food Production and Processing,Ice cream and frozen desserts,2024,279
+Food & Beverage,Food Production and Processing,"Pickles, sauces, and salad dressings",2035,135
+Food & Beverage,Food Production and Processing,Potato chips and similar snacks,2096,149
+Food & Beverage,Food Production and Processing,Poultry slaughtering and processing,2015,1089
+Food & Beverage,Food Production and Processing,Prepared flour mixes and doughs,2045,108
+Food & Beverage,Food Production and Processing,Roasted coffee,2095,196
+Food & Beverage,Food Production and Processing,Salted and roasted nuts and seeds,2068,1
+Food & Beverage,Food Production and Processing,Sausages and other prepared meats,2013,1139
+Food & Beverage,Food Production and Processing,Soybean oil mills,2075,218
+Food & Beverage,Food Production and Processing,"Vegetable oil mills, nec",2076,41
+Food & Beverage,Tobacco Production and Processing,Chewing and smoking tobacco,2131,153
+Food & Beverage,Tobacco Production and Processing,Cigarettes,2111,242
+Forestry & Integrated Wood Products,Lumber and Wood Products,Forestry services,851,25
+Forestry & Integrated Wood Products,Lumber and Wood Products,Hardwood dimension & flooring mills,2426,54
+Forestry & Integrated Wood Products,Lumber and Wood Products,Millwork,2431,12
+Forestry & Integrated Wood Products,Lumber and Wood Products,Reconstituted wood products,2493,659
+Forestry & Integrated Wood Products,Lumber and Wood Products,"Sawmills and planing mills, general",2421,57
+Forestry & Integrated Wood Products,Lumber and Wood Products,Softwood veneer and plywood,2436,8
+Forestry & Integrated Wood Products,Lumber and Wood Products,Timber tracts,811,2
+Forestry & Integrated Wood Products,Lumber and Wood Products,Wood household furniture,2511,199
+Forestry & Integrated Wood Products,Lumber and Wood Products,Wood office furniture,2521,7
+Forestry & Integrated Wood Products,Lumber and Wood Products,Wood partitions and fixtures,2541,418
+Forestry & Integrated Wood Products,Lumber and Wood Products,"Wood products, nec",2499,64
+Forestry & Integrated Wood Products,Paper and Allied Products,"Bags: plastics, laminated, & coated",2673,187
+Forestry & Integrated Wood Products,Paper and Allied Products,Carbon paper and inked ribbons,3955,58
+Forestry & Integrated Wood Products,Paper and Allied Products,"Commercial printing, gravure",2754,168
+Forestry & Integrated Wood Products,Paper and Allied Products,"Commercial printing, lithographic",2752,64
+Forestry & Integrated Wood Products,Paper and Allied Products,"Commercial printing, nec",2759,767
+Forestry & Integrated Wood Products,Paper and Allied Products,"Converted paper products, nec",2679,318
+Forestry & Integrated Wood Products,Paper and Allied Products,Corrugated and solid fiber boxes,2653,11
+Forestry & Integrated Wood Products,Paper and Allied Products,"Fiber cans, drums & similar products",2655,572
+Forestry & Integrated Wood Products,Paper and Allied Products,Greeting cards,2771,47
+Forestry & Integrated Wood Products,Paper and Allied Products,"Paper coated & laminated, packaging",2671,989
+Forestry & Integrated Wood Products,Paper and Allied Products,"Paper coated and laminated, nec",2672,242
+Forestry & Integrated Wood Products,Paper and Allied Products,Paper industries machinery,3554,20
+Forestry & Integrated Wood Products,Paper and Allied Products,Paper mills,2621,1211
+Forestry & Integrated Wood Products,Paper and Allied Products,Paperboard mills,2631,303
+Forestry & Integrated Wood Products,Paper and Allied Products,Pulp mills,2611,41
+Forestry & Integrated Wood Products,Paper and Allied Products,Sanitary paper products,2676,422
+HealthCare,Allied Health,Admin. of public health programs,9431,76
+HealthCare,Allied Health,"Health and allied services, nec",8099,2140
+HealthCare,Allied Health,Kidney dialysis centers,8092,25
+HealthCare,Allied Health,Medical laboratories,8071,2159
+HealthCare,Allied Health,"Specialty outpatient clinics, nec",8093,1353
+HealthCare,Hospitals,General medical & surgical hospitals,8062,8980
+HealthCare,Hospitals,Psychiatric hospitals,8063,153
+HealthCare,Hospitals,Specialty hospitals exc. psychiatric,8069,1029
+HealthCare,Managed Care,Hospital and medical service plans,6324,5240
+HealthCare,Physicians,Offices & clinics of medical doctors,8011,1971
+HealthCare,Physicians,Offices and clinics of dentists,8021,66
+HealthCare,Physicians,Offices and clinics of optometrists,8042,334
+HealthCare,Physicians,"Offices of health practitioners, nec",8049,116
+HealthCare,Senior/Nursing Care,Home health care services,8082,1080
+HealthCare,Senior/Nursing Care,Intermediate care facilities,8052,125
+HealthCare,Senior/Nursing Care,"Nursing and personal care, nec",8059,1372
+HealthCare,Senior/Nursing Care,Skilled nursing care facilities,8051,504
+Hospitality and Gaming,"Hotels, Motels, Resorts",Coin-operated amusement devices,7993,20
+Hospitality and Gaming,"Hotels, Motels, Resorts","Deep sea passenger trans., ex. ferry",4481,216
+Hospitality and Gaming,"Hotels, Motels, Resorts",Hotels and motels,7011,17902
+Hospitality and Gaming,"Hotels, Motels, Resorts",Membership-basis organization hotels,7041,4795
+Hospitality and Gaming,"Hotels, Motels, Resorts",Trailer parks and campsites,7033,282
+Hospitality and Gaming,"Hotels, Motels, Resorts","Water passenger transportation, nec",4489,31
+Hospitality and Gaming,Restaurants,Drinking places,5813,602
+Hospitality and Gaming,Restaurants,Eating places,5812,18241
+Life Sciences,Commercial and Non-commercial Research Organizations,Commercial physical research,8731,3954
+Life Sciences,Commercial and Non-commercial Research Organizations,Noncommercial research organizations,8733,1952
+Life Sciences,Medical Device Manufacturers,Dental equipment and supplies,3843,712
+Life Sciences,Medical Device Manufacturers,Dental laboratories,8072,17
+Life Sciences,Medical Device Manufacturers,Electromedical equipment,3845,4113
+Life Sciences,Medical Device Manufacturers,Surgical and medical instruments,3841,5785
+Life Sciences,Medical Device Manufacturers,Surgical appliances and supplies,3842,6936
+Life Sciences,Pharmaceuticals/Biotech,Biological products exc. diagnostic,2836,1734
+Life Sciences,Pharmaceuticals/Biotech,Diagnostic substances,2835,650
+Life Sciences,Pharmaceuticals/Biotech,"Drugs, proprietaries, and sundries",5122,2786
+Life Sciences,Pharmaceuticals/Biotech,Medicinals and botanicals,2833,2366
+Life Sciences,Pharmaceuticals/Biotech,Pharmaceutical preparations,2834,11807
+Manufacturing,Aviation and Aerospace,Aircraft,3721,1093
+Manufacturing,Aviation and Aerospace,Aircraft engines and engine parts,3724,1091
+Manufacturing,Aviation and Aerospace,"Aircraft parts and equipment, nec",3728,5176
+Manufacturing,Aviation and Aerospace,Guided missiles and space vehicles,3761,2060
+Manufacturing,Aviation and Aerospace,Ship building and repairing,3731,382
+Manufacturing,Aviation and Aerospace,Space propulsion units and parts,3764,186
+Manufacturing,Aviation and Aerospace,Space research and technology,9661,18
+Manufacturing,Light Manufacturing,Analytical instruments,3826,523
+Manufacturing,Light Manufacturing,"Apparel and accessories, nec",2389,1
+Manufacturing,Light Manufacturing,"Broadwoven fabric mills, cotton",2211,48
+Manufacturing,Light Manufacturing,"Broadwoven fabric mills, manmade",2221,1375
+Manufacturing,Light Manufacturing,Carpets and rugs,2273,1444
+Manufacturing,Light Manufacturing,"Coated fabrics, not rubberized",2295,77
+Manufacturing,Light Manufacturing,Dolls and stuffed toys,3942,1
+Manufacturing,Light Manufacturing,Environmental controls,3822,18
+Manufacturing,Light Manufacturing,"Fabricated textile products, nec",2399,215
+Manufacturing,Light Manufacturing,Fluid meters and counting devices,3824,120
+Manufacturing,Light Manufacturing,"Footwear, except rubber, nec",3149,737
+Manufacturing,Light Manufacturing,"Games, toys, and children's vehicles",3944,81
+Manufacturing,Light Manufacturing,"Girls' and children's outerwear, nec",2369,6
+Manufacturing,Light Manufacturing,"Housefurnishings, nec",2392,85
+Manufacturing,Light Manufacturing,Instruments to measure electricity,3825,205
+Manufacturing,Light Manufacturing,"Jewelry, precious metal",3911,200
+Manufacturing,Light Manufacturing,Knit outerwear mills,2253,50
+Manufacturing,Light Manufacturing,Laboratory apparatus and furniture,3821,15
+Manufacturing,Light Manufacturing,Lead pencils and art goods,3952,111
+Manufacturing,Light Manufacturing,Luggage,3161,26
+Manufacturing,Light Manufacturing,"Measuring & controlling devices, nec",3829,1062
+Manufacturing,Light Manufacturing,"Men's and boys' clothing, nec",2329,3
+Manufacturing,Light Manufacturing,Men's and boys' neckwear,2323,1
+Manufacturing,Light Manufacturing,Men's and boys' suits and coats,2311,35
+Manufacturing,Light Manufacturing,Men's and boys' work clothing,2326,1926
+Manufacturing,Light Manufacturing,"Men's footwear, except athletic",3143,365
+Manufacturing,Light Manufacturing,Musical instruments,3931,10
+Manufacturing,Light Manufacturing,Nonwoven fabrics,2297,283
+Manufacturing,Light Manufacturing,Optical instruments and lenses,3827,92
+Manufacturing,Light Manufacturing,Pens and mechanical pencils,3951,269
+Manufacturing,Light Manufacturing,Photographic equipment and supplies,3861,515
+Manufacturing,Light Manufacturing,Process control instruments,3823,162
+Manufacturing,Light Manufacturing,"Textile goods, nec",2299,71
+Manufacturing,Light Manufacturing,Tire cord and fabrics,2296,187
+Manufacturing,Light Manufacturing,"Women's and misses' outerwear, nec",2339,10
+Manufacturing,Light Manufacturing,Women's and misses' suits and coats,2337,16
+Manufacturing,Light Manufacturing,"Women's hosiery, except socks",2251,9
+Manufacturing,Light Manufacturing,"Women's, junior's, & misses' dresses",2335,20
+Manufacturing,Light Manufacturing,Yarn spinning mills,2281,130
+Manufacturing,Miscellanoues Capital Goods,Air and gas compressors,3563,546
+Manufacturing,Miscellanoues Capital Goods,Ball and roller bearings,3562,10
+Manufacturing,Miscellanoues Capital Goods,Blowers and fans,3564,895
+Manufacturing,Miscellanoues Capital Goods,Construction machinery,3531,1070
+Manufacturing,Miscellanoues Capital Goods,Conveyors and conveying equipment,3535,420
+Manufacturing,Miscellanoues Capital Goods,Elevators and moving stairways,3534,741
+Manufacturing,Miscellanoues Capital Goods,Engine electrical equipment,3694,1017
+Manufacturing,Miscellanoues Capital Goods,Farm machinery and equipment,3523,1052
+Manufacturing,Miscellanoues Capital Goods,Food products machinery,3556,433
+Manufacturing,Miscellanoues Capital Goods,"General industrial machinery, nec",3569,3725
+Manufacturing,Miscellanoues Capital Goods,"Hoists, cranes, and monorails",3536,6
+Manufacturing,Miscellanoues Capital Goods,Industrial furnaces and ovens,3567,9
+Manufacturing,Miscellanoues Capital Goods,"Industrial machinery, nec",3599,45
+Manufacturing,Miscellanoues Capital Goods,Industrial trucks and tractors,3537,130
+Manufacturing,Miscellanoues Capital Goods,Lawn and garden equipment,3524,3
+Manufacturing,Miscellanoues Capital Goods,Machine tool accessories,3545,78
+Manufacturing,Miscellanoues Capital Goods,"Machine tools, metal cutting types",3541,19
+Manufacturing,Miscellanoues Capital Goods,"Machine tools, metal forming types",3542,33
+Manufacturing,Miscellanoues Capital Goods,"Metalworking machinery, nec",3549,50
+Manufacturing,Miscellanoues Capital Goods,Mining machinery,3532,185
+Manufacturing,Miscellanoues Capital Goods,"Office machines, nec",3579,418
+Manufacturing,Miscellanoues Capital Goods,Oil and gas field machinery,3533,94
+Manufacturing,Miscellanoues Capital Goods,Packaging machinery,3565,106
+Manufacturing,Miscellanoues Capital Goods,"Power transmission equipment, nec",3568,1037
+Manufacturing,Miscellanoues Capital Goods,Power-driven handtools,3546,13
+Manufacturing,Miscellanoues Capital Goods,Printing trades machinery,3555,457
+Manufacturing,Miscellanoues Capital Goods,Pumps and pumping equipment,3561,3444
+Manufacturing,Miscellanoues Capital Goods,Refrigeration and heating equipment,3585,2540
+Manufacturing,Miscellanoues Capital Goods,"Service industry machinery, nec",3589,1436
+Manufacturing,Miscellanoues Capital Goods,"Special industry machinery, nec",3559,1576
+Manufacturing,Miscellanoues Capital Goods,Turbines and turbine generator sets,3511,43
+Manufacturing,Miscellanoues Capital Goods,Welding apparatus,3548,234
+Manufacturing,Miscellanoues Fabricated Goods,Abrasive products,3291,15
+Manufacturing,Miscellanoues Fabricated Goods,Aluminum die-castings,3363,13
+Manufacturing,Miscellanoues Fabricated Goods,Aluminum extruded products,3354,132
+Manufacturing,Miscellanoues Fabricated Goods,"Aluminum rolling and drawing, nec",3355,42
+Manufacturing,Miscellanoues Fabricated Goods,"Aluminum sheet, plate, and foil",3353,838
+Manufacturing,Miscellanoues Fabricated Goods,"Ammunition, exc. for small arms, nec",3483,6
+Manufacturing,Miscellanoues Fabricated Goods,Architectural metal work,3446,662
+Manufacturing,Miscellanoues Fabricated Goods,"Bolts, nuts, rivets, and washers",3452,983
+Manufacturing,Miscellanoues Fabricated Goods,Brick and structural clay tile,3251,8
+Manufacturing,Miscellanoues Fabricated Goods,Carbon and graphite products,3624,515
+Manufacturing,Miscellanoues Fabricated Goods,Ceramic wall and floor tile,3253,457
+Manufacturing,Miscellanoues Fabricated Goods,Cold finishing of steel shapes,3316,1269
+Manufacturing,Miscellanoues Fabricated Goods,Commercial lighting fixtures,3646,138
+Manufacturing,Miscellanoues Fabricated Goods,Cut stone and stone products,3281,10
+Manufacturing,Miscellanoues Fabricated Goods,Cutlery,3421,23
+Manufacturing,Miscellanoues Fabricated Goods,Electric housewares and fans,3634,688
+Manufacturing,Miscellanoues Fabricated Goods,Electric lamps,3641,28
+Manufacturing,Miscellanoues Fabricated Goods,"Fabricated metal products, nec",3499,1489
+Manufacturing,Miscellanoues Fabricated Goods,Fabricated pipe and fittings,3498,575
+Manufacturing,Miscellanoues Fabricated Goods,Fabricated plate work (boiler shops),3443,221
+Manufacturing,Miscellanoues Fabricated Goods,"Fabricated rubber products, nec",3069,352
+Manufacturing,Miscellanoues Fabricated Goods,Fabricated structural metal,3441,368
+Manufacturing,Miscellanoues Fabricated Goods,Flat glass,3211,190
+Manufacturing,Miscellanoues Fabricated Goods,Fluid power valves & hose fittings,3492,76
+Manufacturing,Miscellanoues Fabricated Goods,"Furniture and fixtures, nec",2599,244
+Manufacturing,Miscellanoues Fabricated Goods,"Gaskets, packing and sealing devices",3053,22
+Manufacturing,Miscellanoues Fabricated Goods,Glass containers,3221,3
+Manufacturing,Miscellanoues Fabricated Goods,Gypsum products,3275,403
+Manufacturing,Miscellanoues Fabricated Goods,"Hand and edge tools, nec",3423,199
+Manufacturing,Miscellanoues Fabricated Goods,"Hard surface floor coverings, nec",3996,65
+Manufacturing,Miscellanoues Fabricated Goods,"Hardware, nec",3429,450
+Manufacturing,Miscellanoues Fabricated Goods,"Heating equipment, except electric",3433,1304
+Manufacturing,Miscellanoues Fabricated Goods,"Household appliances, nec",3639,201
+Manufacturing,Miscellanoues Fabricated Goods,Household refrigerators and freezers,3632,1049
+Manufacturing,Miscellanoues Fabricated Goods,Household vacuum cleaners,3635,313
+Manufacturing,Miscellanoues Fabricated Goods,Industrial valves,3491,483
+Manufacturing,Miscellanoues Fabricated Goods,Laminated plastics plate & sheet,3083,185
+Manufacturing,Miscellanoues Fabricated Goods,"Lighting equipment, nec",3648,285
+Manufacturing,Miscellanoues Fabricated Goods,"Manufacturing industries, nec",3999,4107
+Manufacturing,Miscellanoues Fabricated Goods,Mechanical rubber goods,3061,1289
+Manufacturing,Miscellanoues Fabricated Goods,"Metal barrels, drums, and pails",3412,144
+Manufacturing,Miscellanoues Fabricated Goods,Metal cans,3411,10
+Manufacturing,Miscellanoues Fabricated Goods,Metal coating and allied services,3479,1141
+Manufacturing,Miscellanoues Fabricated Goods,"Metal doors, sash, and trim",3442,288
+Manufacturing,Miscellanoues Fabricated Goods,Metal sanitary ware,3431,238
+Manufacturing,Miscellanoues Fabricated Goods,"Metal stampings, nec",3469,85
+Manufacturing,Miscellanoues Fabricated Goods,Mineral wool,3296,124
+Manufacturing,Miscellanoues Fabricated Goods,"Minerals, ground or treated",3295,1055
+Manufacturing,Miscellanoues Fabricated Goods,Misc. fabricated wire products,3496,287
+Manufacturing,Miscellanoues Fabricated Goods,Miscellaneous metal work,3449,117
+Manufacturing,Miscellanoues Fabricated Goods,Nonclay refractories,3297,49
+Manufacturing,Miscellanoues Fabricated Goods,"Nonferrous rolling and drawing, nec",3356,111
+Manufacturing,Miscellanoues Fabricated Goods,Nonferrous wiredrawing & insulating,3357,516
+Manufacturing,Miscellanoues Fabricated Goods,"Nonmetallic mineral products, nec",3299,101
+Manufacturing,Miscellanoues Fabricated Goods,"Office furniture, except wood",2522,132
+Manufacturing,Miscellanoues Fabricated Goods,"Partitions and fixtures, except wood",2542,1
+Manufacturing,Miscellanoues Fabricated Goods,Plastics bottles,3085,290
+Manufacturing,Miscellanoues Fabricated Goods,Plastics pipe,3084,510
+Manufacturing,Miscellanoues Fabricated Goods,Plastics plumbing fixtures,3088,127
+Manufacturing,Miscellanoues Fabricated Goods,Plating and polishing,3471,3
+Manufacturing,Miscellanoues Fabricated Goods,Plumbing fixture fittings and trim,3432,189
+Manufacturing,Miscellanoues Fabricated Goods,Porcelain electrical supplies,3264,357
+Manufacturing,Miscellanoues Fabricated Goods,"Pottery products, nec",3269,578
+Manufacturing,Miscellanoues Fabricated Goods,Prefabricated metal buildings,3448,2
+Manufacturing,Miscellanoues Fabricated Goods,"Pressed and blown glass, nec",3229,255
+Manufacturing,Miscellanoues Fabricated Goods,"Primary metal products, nec",3399,235
+Manufacturing,Miscellanoues Fabricated Goods,Products of purchased glass,3231,1138
+Manufacturing,Miscellanoues Fabricated Goods,Public building & related furniture,2531,463
+Manufacturing,Miscellanoues Fabricated Goods,Rubber & plastics hose & belting,3052,92
+Manufacturing,Miscellanoues Fabricated Goods,Saw blades and handsaws,3425,8
+Manufacturing,Miscellanoues Fabricated Goods,Semivitreous table & kitchenware,3263,310
+Manufacturing,Miscellanoues Fabricated Goods,Sheet metalwork,3444,138
+Manufacturing,Miscellanoues Fabricated Goods,Signs and advertising specialities,3993,804
+Manufacturing,Miscellanoues Fabricated Goods,Steel pipe and tubes,3317,1214
+Manufacturing,Miscellanoues Fabricated Goods,Steel wire and related products,3315,59
+Manufacturing,Miscellanoues Fabricated Goods,Switchgear and switchboard apparatus,3613,3673
+Manufacturing,Miscellanoues Fabricated Goods,Unsupported plastics profile shapes,3082,126
+Manufacturing,Miscellanoues Fabricated Goods,Upholstered household furniture,2512,43
+Manufacturing,Miscellanoues Fabricated Goods,"Valves and pipe fittings, nec",3494,619
+Manufacturing,Miscellanoues Fabricated Goods,Vitreous plumbing fixtures,3261,297
+Misc. Other,Misc. Other,Nonclassifiable establishments,9999,3817
+Power & Utilities,Environmental/Waste Management,Refuse systems,4953,116
+Power & Utilities,Environmental/Waste Management,Sewerage systems,4952,14
+Power & Utilities,Environmental/Waste Management,Water supply,4941,1157
+Power & Utilities,Power,Gas production and/or distribution,4925,70
+Power & Utilities,Power,Natural gas distribution,4924,193
+Power & Utilities,Power,Natural gas transmission,4922,183
+Power & Utilities,Utilities,"Combination utilities, nec",4939,326
+Power & Utilities,Utilities,Electric and other services combined,4931,1753
+Power & Utilities,Utilities,Electric services,4911,7866
+Power & Utilities,Utilities,Gas and other services combined,4932,107
+Power & Utilities,Utilities,"Sanitary services, nec",4959,1
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government",Admin. of general economic programs,9611,149
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government",Administration of veterans' affairs,9451,4
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government","Air, water, & solid waste management",9511,242
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government",Courts,9211,18
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government",Executive and legislative combined,9131,4
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government",Executive offices,9111,2346
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government","General government, nec",9199,772
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government",Housing programs,9531,603
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government",International affairs,9721,9
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government",Legislative bodies,9121,19
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government",National security,9711,6
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government",Police protection,9221,42
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government","Public order and safety, nec",9229,25
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government",Regulation misc. commercial sectors,9651,172
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government",Regulation of agricultural marketing,9641,56
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government","Regulation, admin. of transportation",9621,516
+Public Entity & Non Profit Organizations,"Local/Municipal, State/Regional, Federal Government","Regulation, admin. of utilities",9631,31
+Public Entity & Non Profit Organizations,Non Profit Organizations,Civic and social associations,8641,1145
+Public Entity & Non Profit Organizations,Non Profit Organizations,Labor organizations,8631,457
+Public Entity & Non Profit Organizations,Non Profit Organizations,"Land, mineral, wildlife conservation",9512,5
+Public Entity & Non Profit Organizations,Non Profit Organizations,"Membership organizations, nec",8699,1405
+Public Entity & Non Profit Organizations,Non Profit Organizations,Political organizations,8651,1
+Public Entity & Non Profit Organizations,Non Profit Organizations,Professional organizations,8621,1710
+Public Entity & Non Profit Organizations,Non Profit Organizations,Religious organizations,8661,2982
+Public Entity & Non Profit Organizations,Non Profit Organizations,Urban and community development,9532,89
+Real Estate,Real Estate Developers,Cemetery subdividers and developers,6553,895
+Real Estate,Real Estate Developers,"Subdividers and developers, nec",6552,6478
+Real Estate,Real Estate Investment Trusts (REITs),Real estate investment trusts,6798,13106
+Real Estate,Real Estate Owners/Management Companies - Commercial,Automobile parking,7521,50
+Real Estate,Real Estate Owners/Management Companies - Commercial,"Motion picture theaters, ex drive-in",7832,4217
+Real Estate,Real Estate Owners/Management Companies - Commercial,Nonresidential building operators,6512,5542
+Real Estate,Real Estate Owners/Management Companies - Commercial,"Real property lessors, nec",6519,2099
+Real Estate,Real Estate Owners/Management Companies - Residential,Apartment building operators,6513,4960
+Real Estate,Real Estate Owners/Management Companies - Residential,"Dwelling operators, exc. apartments",6514,331
+Real Estate,Real Estate Owners/Management Companies - Residential,Real estate agents and managers,6531,25340
+Retail/Wholesale,Gas Stations,Gasoline service stations,5541,412
+Retail/Wholesale,Large Format/Warehouse Stores,Furniture stores,5712,414
+Retail/Wholesale,Large Format/Warehouse Stores,Hardware stores,5251,24
+Retail/Wholesale,Large Format/Warehouse Stores,Household appliance stores,5722,367
+Retail/Wholesale,Large Format/Warehouse Stores,Lumber and other building materials,5211,828
+Retail/Wholesale,Large Format/Warehouse Stores,"Paint, glass, and wallpaper stores",5231,210
+Retail/Wholesale,Large Format/Warehouse Stores,Retail nurseries and garden stores,5261,64
+Retail/Wholesale,Retail - Other,Department stores,5311,2564
+Retail/Wholesale,Retail - Other,Used merchandise stores,5932,1
+Retail/Wholesale,Retail - Other,Variety stores,5331,2053
+Retail/Wholesale,Specialty/Apparel,Auto and home supply stores,5531,2762
+Retail/Wholesale,Specialty/Apparel,Book stores,5942,467
+Retail/Wholesale,Specialty/Apparel,Camera & photographic supply stores,5946,39
+Retail/Wholesale,Specialty/Apparel,Catalog and mail-order houses,5961,926
+Retail/Wholesale,Specialty/Apparel,Children's and infants' wear stores,5641,156
+Retail/Wholesale,Specialty/Apparel,Computer and software stores,5734,256
+Retail/Wholesale,Specialty/Apparel,Costume jewelry,3961,33
+Retail/Wholesale,Specialty/Apparel,Direct selling establishments,5963,415
+Retail/Wholesale,Specialty/Apparel,Family clothing stores,5651,1517
+Retail/Wholesale,Specialty/Apparel,Floor covering stores,5713,332
+Retail/Wholesale,Specialty/Apparel,Fuel oil dealers,5983,92
+Retail/Wholesale,Specialty/Apparel,"Gift, novelty, and souvenir shops",5947,6
+Retail/Wholesale,Specialty/Apparel,"Hobby, toy, and game shops",5945,56
+Retail/Wholesale,Specialty/Apparel,Jewelry stores,5944,186
+Retail/Wholesale,Specialty/Apparel,Luggage and leather goods stores,5948,707
+Retail/Wholesale,Specialty/Apparel,Men's & boys' clothing stores,5611,56
+Retail/Wholesale,Specialty/Apparel,Merchandising machine operators,5962,476
+Retail/Wholesale,Specialty/Apparel,Misc. apparel & accessory stores,5699,1277
+Retail/Wholesale,Specialty/Apparel,Misc. general merchandise stores,5399,404
+Retail/Wholesale,Specialty/Apparel,Misc. homefurnishings stores,5719,208
+Retail/Wholesale,Specialty/Apparel,"Miscellaneous retail stores, nec",5999,1461
+Retail/Wholesale,Specialty/Apparel,Musical instrument stores,5736,443
+Retail/Wholesale,Specialty/Apparel,"Radio, TV, & electronic stores",5731,276
+Retail/Wholesale,Specialty/Apparel,Record & prerecorded tape stores,5735,28
+Retail/Wholesale,Specialty/Apparel,Shoe stores,5661,283
+Retail/Wholesale,Specialty/Apparel,Sporting goods and bicycle shops,5941,3856
+Retail/Wholesale,Specialty/Apparel,Stationery stores,5943,1
+Retail/Wholesale,Specialty/Apparel,Women's accessory & specialty stores,5632,5
+Retail/Wholesale,Specialty/Apparel,Women's clothing stores,5621,1723
+Retail/Wholesale,Supermarkets,"Candy, nut, and confectionery stores",5441,165
+Retail/Wholesale,Supermarkets,Dairy products stores,5451,77
+Retail/Wholesale,Supermarkets,Drug stores and proprietary stores,5912,823
+Retail/Wholesale,Supermarkets,Grocery stores,5411,8448
+Retail/Wholesale,Supermarkets,Liquor stores,5921,670
+Retail/Wholesale,Supermarkets,Meat and fish markets,5421,129
+Retail/Wholesale,Supermarkets,Miscellaneous food stores,5499,562
+Retail/Wholesale,Supermarkets,Retail bakeries,5461,718
+Retail/Wholesale,Wholesale - Durable Goods,"Brick, stone, & related materials",5032,145
+Retail/Wholesale,Wholesale - Durable Goods,Coal and other minerals and ores,5052,737
+Retail/Wholesale,Wholesale - Durable Goods,"Commercial equipment, nec",5046,15
+Retail/Wholesale,Wholesale - Durable Goods,Construction and mining machinery,5082,2662
+Retail/Wholesale,Wholesale - Durable Goods,"Construction materials, nec",5039,121
+Retail/Wholesale,Wholesale - Durable Goods,"Durable goods, nec",5099,211
+Retail/Wholesale,Wholesale - Durable Goods,Electrical apparatus and equipment,5063,1788
+Retail/Wholesale,Wholesale - Durable Goods,"Electrical appliances, TV & radios",5064,1427
+Retail/Wholesale,Wholesale - Durable Goods,Farm and garden machinery,5083,479
+Retail/Wholesale,Wholesale - Durable Goods,Furniture,5021,375
+Retail/Wholesale,Wholesale - Durable Goods,Hardware,5072,83
+Retail/Wholesale,Wholesale - Durable Goods,Homefurnishings,5023,335
+Retail/Wholesale,Wholesale - Durable Goods,Industrial machinery and equipment,5084,3492
+Retail/Wholesale,Wholesale - Durable Goods,Industrial supplies,5085,1630
+Retail/Wholesale,Wholesale - Durable Goods,Jewelry & precious stones,5094,744
+Retail/Wholesale,Wholesale - Durable Goods,"Lumber, plywood, and millwork",5031,646
+Retail/Wholesale,Wholesale - Durable Goods,Medical and hospital equipment,5047,1982
+Retail/Wholesale,Wholesale - Durable Goods,Metals service centers and offices,5051,1090
+Retail/Wholesale,Wholesale - Durable Goods,Office equipment,5044,70
+Retail/Wholesale,Wholesale - Durable Goods,Ophthalmic goods,5048,28
+Retail/Wholesale,Wholesale - Durable Goods,Photographic equipment and supplies,5043,113
+Retail/Wholesale,Wholesale - Durable Goods,Plumbing & hydronic heating supplies,5074,80
+Retail/Wholesale,Wholesale - Durable Goods,"Professional equipment, nec",5049,21
+Retail/Wholesale,Wholesale - Durable Goods,Refrigeration equipment and supplies,5078,77
+Retail/Wholesale,Wholesale - Durable Goods,"Roofing, siding, & insulation",5033,8
+Retail/Wholesale,Wholesale - Durable Goods,Scrap and waste materials,5093,37
+Retail/Wholesale,Wholesale - Durable Goods,Service establishment equipment,5087,645
+Retail/Wholesale,Wholesale - Durable Goods,Sporting & recreational goods,5091,428
+Retail/Wholesale,Wholesale - Durable Goods,Toys and hobby goods and supplies,5092,88
+Retail/Wholesale,Wholesale - Durable Goods,Transportation equipment & supplies,5088,763
+Retail/Wholesale,Wholesale - Durable Goods,Warm air heating & air-conditioning,5075,914
+Retail/Wholesale,Wholesale - Nondurable Goods,Beer and ale,5181,753
+Retail/Wholesale,Wholesale - Nondurable Goods,"Books, periodicals, & newspapers",5192,6
+Retail/Wholesale,Wholesale - Nondurable Goods,Confectionery,5145,36
+Retail/Wholesale,Wholesale - Nondurable Goods,"Dairy products, exc. dried or canned",5143,161
+Retail/Wholesale,Wholesale - Nondurable Goods,Farm supplies,5191,148
+Retail/Wholesale,Wholesale - Nondurable Goods,"Farm-product raw materials, nec",5159,697
+Retail/Wholesale,Wholesale - Nondurable Goods,Fish and seafoods,5146,686
+Retail/Wholesale,Wholesale - Nondurable Goods,Flowers & florists' supplies,5193,15
+Retail/Wholesale,Wholesale - Nondurable Goods,Footwear,5139,1065
+Retail/Wholesale,Wholesale - Nondurable Goods,Fresh fruits and vegetables,5148,1907
+Retail/Wholesale,Wholesale - Nondurable Goods,Grain and field beans,5153,180
+Retail/Wholesale,Wholesale - Nondurable Goods,"Groceries and related products, nec",5149,3702
+Retail/Wholesale,Wholesale - Nondurable Goods,"Groceries, general line",5141,1430
+Retail/Wholesale,Wholesale - Nondurable Goods,Industrial & personal service paper,5113,249
+Retail/Wholesale,Wholesale - Nondurable Goods,Livestock,5154,5
+Retail/Wholesale,Wholesale - Nondurable Goods,Meats and meat products,5147,180
+Retail/Wholesale,Wholesale - Nondurable Goods,Men's and boys' clothing,5136,718
+Retail/Wholesale,Wholesale - Nondurable Goods,"Nondurable goods, nec",5199,1094
+Retail/Wholesale,Wholesale - Nondurable Goods,Packaged frozen foods,5142,258
+Retail/Wholesale,Wholesale - Nondurable Goods,"Paints, varnishes, and supplies",5198,43
+Retail/Wholesale,Wholesale - Nondurable Goods,"Petroleum products, nec",5172,892
+Retail/Wholesale,Wholesale - Nondurable Goods,Piece goods & notions,5131,84
+Retail/Wholesale,Wholesale - Nondurable Goods,Plastics materials & basic shapes,5162,44
+Retail/Wholesale,Wholesale - Nondurable Goods,Poultry and poultry products,5144,201
+Retail/Wholesale,Wholesale - Nondurable Goods,Printing and writing paper,5111,935
+Retail/Wholesale,Wholesale - Nondurable Goods,Stationery and office supplies,5112,213
+Retail/Wholesale,Wholesale - Nondurable Goods,Tobacco and tobacco products,5194,20
+Retail/Wholesale,Wholesale - Nondurable Goods,Wine and distilled beverages,5182,437
+Retail/Wholesale,Wholesale - Nondurable Goods,Women's and children's clothing,5137,552
+Services,Business Services,"Accounting, auditing, & bookkeeping",8721,2930
+Services,Business Services,Adjustment & collection services,7322,158
+Services,Business Services,"Building maintenance services, nec",7349,1983
+Services,Business Services,Business associations,8611,808
+Services,Business Services,"Business consulting, nec",8748,1981
+Services,Business Services,"Business services, nec",7389,5999
+Services,Business Services,Commercial art and graphic design,7336,102
+Services,Business Services,Commercial nonphysical research,8732,198
+Services,Business Services,Credit reporting services,7323,166
+Services,Business Services,Detective & armored car services,7381,97
+Services,Business Services,Employment agencies,7361,385
+Services,Business Services,"Equipment rental & leasing, nec",7359,1576
+Services,Business Services,Facilities support services,8744,16
+Services,Business Services,Help supply services,7363,311
+Services,Business Services,Industrial launderers,7218,12
+Services,Business Services,Management consulting services,8742,8118
+Services,Business Services,Management services,8741,3627
+Services,Business Services,"Miscellaneous personal services, nec",7299,70
+Services,Business Services,News syndicates,7383,5
+Services,Business Services,Outdoor advertising services,7312,209
+Services,Business Services,"Radio, TV, publisher representatives",7313,710
+Services,Business Services,Secretarial & court reporting,7338,30
+Services,Business Services,Security systems services,7382,307
+Services,Business Services,"Services, nec",8999,295
+Services,Business Services,Tax return preparation services,7291,381
+Services,Business Services,Testing laboratories,8734,745
+Services,Legal Services,Legal services,8111,5949
+Services,Personal Services,Armature rewinding shops,7694,4
+Services,Personal Services,Beauty shops,7231,122
+Services,Personal Services,Carpet and upholstery cleaning,7217,1
+Services,Personal Services,Carwashes,7542,26
+Services,Personal Services,Funeral service and crematories,7261,50
+Services,Personal Services,Individual and family services,8322,3012
+Services,Personal Services,Job training and related services,8331,9
+Services,Personal Services,Private households,8811,7
+Services,Personal Services,Refrigeration service and repair,7623,8
+Services,Personal Services,"Repair services, nec",7699,192
+Services,Personal Services,Residential care,8361,332
+Services,Personal Services,"Social services, nec",8399,949
+Sports & Events,Sports and Events,"Amusement and recreation, nec",7999,2543
+Sports & Events,Sports and Events,Amusement parks,7996,1380
+Sports & Events,Sports and Events,Botanical and zoological gardens,8422,775
+Sports & Events,Sports and Events,"Dance studios, schools, and halls",7911,6
+Sports & Events,Sports and Events,Membership sports & recreation clubs,7997,2083
+Sports & Events,Sports and Events,Museums and art galleries,8412,2671
+Sports & Events,Sports and Events,Physical fitness facilities,7991,1086
+Sports & Events,Sports and Events,Public golf courses,7992,21
+Sports & Events,Sports and Events,"Racing, including track operation",7948,816
+Sports & Events,Sports and Events,Small arms,3484,43
+Sports & Events,Sports and Events,"Sporting and athletic goods, nec",3949,2271
+Sports & Events,Sports and Events,Sporting and recreational camps,7032,87
+Sports & Events,Sports and Events,"Sports clubs, managers, & promoters",7941,3671
+Transportation,Land Passenger Transportation,Intercity & rural bus transportation,4131,219
+Transportation,Land Passenger Transportation,"Local passenger transportation, nec",4119,538
+Transportation,Land Passenger Transportation,Taxicabs,4121,25
+Transportation,Land Passenger Transportation,Tour operators,4725,50
+Transportation,Land Passenger Transportation,"Transportation services, nec",4789,781
+Transportation,Land Passenger Transportation,Travel agencies,4724,235
+Transportation,Rail Transportation,Local and suburban transit,4111,988
+Transportation,Rail Transportation,Railroad equipment,3743,1334
+Transportation,Rail Transportation,"Railroads, line-haul operating",4011,805
+Transportation,Rail Transportation,Rental of railroad cars,4741,45
+Transportation,Rail Transportation,Switching and terminal services,4013,170
+Transportation,Transportation - Other,"Air transportation, nonscheduled",4522,340
+Transportation,Transportation - Other,"Air transportation, scheduled",4512,765
+Transportation,Transportation Infrastructure,"Airports, flying fields, & services",4581,1198
+Transportation,Transportation Infrastructure,Bus terminal and service facilities,4173,10
+Transportation,Transportation Infrastructure,Inspection & fixed facilities,4785,56
+Transportation,Transportation Infrastructure,Marinas,4493,277
+Transportation,Transportation Infrastructure,Towing and tugboat service,4492,190
+Transportation,Trucking/Logistics,"Courier services, except by air",4215,216
+Transportation,Trucking/Logistics,Farm product warehousing and storage,4221,18
+Transportation,Trucking/Logistics,Freight transportation arrangement,4731,3247
+Transportation,Trucking/Logistics,General warehousing and storage,4225,939
+Transportation,Trucking/Logistics,Local trucking with storage,4214,883
+Transportation,Trucking/Logistics,"Local trucking, without storage",4212,540
+Transportation,Trucking/Logistics,Packing and crating,4783,2
+Transportation,Trucking/Logistics,Refrigerated warehousing and storage,4222,80
+Transportation,Trucking/Logistics,"Special warehousing and storage, nec",4226,48
+Transportation,Trucking/Logistics,Trucking terminal facilities,4231,3
+Transportation,Trucking/Logistics,"Trucking, except local",4213,3165
+Transportation,Water Passenger Transportation,Ferries,4482,25
+Transportation,Water Transportation of Goods,Deep sea domestic trans. of freight,4424,119
+Transportation,Water Transportation of Goods,Deep sea foreign trans. of freight,4412,372
+Transportation,Water Transportation of Goods,Marine cargo handling,4491,506
+Transportation,Water Transportation of Goods,"Water transportation of freight, nec",4449,201
+Transportation,Water Transportation of Goods,"Water transportation services, nec",4499,108
